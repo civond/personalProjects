@@ -1,1 +1,3 @@
-Make sure to use the terminal to run the .py file!
+<h2>Usage</h2>
+<br/>In the terminal, type python color_detection.py -i <image_path>. 
+Once the image is loaded, double click anywhere to see what color that pixel is!
